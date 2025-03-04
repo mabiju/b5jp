@@ -1,0 +1,6 @@
+Instructions before executing your command line argument program in JAVA
+------------------------------------------------------------------------
+1. Start or restart your computer,
+2. clean all log and caches using temp, %temp% and prefetch,
+3. Be careful, do not open any other java program or IDE that loads jdk in memory at the moment,
+4. Start to write your code using "notepad".
