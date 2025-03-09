@@ -1,0 +1,11 @@
+Handwritten Assingnment 1
+-------------------------
+1. Define control statement. Exemplify if, looping, switch and jump statement with syntax.
+2. Which is the most efficient loop in JAVA. Verify your statement with example(s).
+3. What is "This" keyword? Demonstrate different approaches of This keyword in java .
+4. Define Garbage Collection with examples.
+5. What is the use of static keyword in Java. Provide examples for static fields and methods.
+
+
+Assigned : 2081/11/25, Sunday
+Deadline : 2081/12/05, Tuesday
