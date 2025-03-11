@@ -1,6 +1,7 @@
 package N_Static_Fields_Method;
 
 public class d_static_method {
+    // static variables
     static int clzId = 67;
     static String clzName = "Sanothimi";
 
