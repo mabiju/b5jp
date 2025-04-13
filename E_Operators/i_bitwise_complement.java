@@ -1,4 +1,4 @@
-package E_Operators;
+package e_operators;
 
 public class i_bitwise_complement {
     public static void main(String[] args) {

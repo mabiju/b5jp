@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class x_array_single_dim_string {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Y_Threads;
+package y_threads;
 
 public class a_thread {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 // use of this keyword to refer current class instance variable
-package L_This_Keyword;
+package l_this_keyword;
 
 class Student {
     int roll;

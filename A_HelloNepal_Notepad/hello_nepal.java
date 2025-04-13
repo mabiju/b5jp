@@ -1,4 +1,4 @@
-package A_HelloNepal_Notepad;
+package a_hellonepal_notepad;
 public class hello_nepal
 {
 	public static void main(String[] args)

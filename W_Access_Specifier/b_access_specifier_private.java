@@ -1,4 +1,4 @@
-package W_Access_Specifier;
+package w_access_specifier;
 
 class Student {
     // private int roll = 420;  // cannot accessible out of class

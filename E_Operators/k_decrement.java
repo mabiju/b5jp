@@ -1,4 +1,4 @@
-package E_Operators;
+package e_operators;
 
 public class k_decrement {
     public static void main(String[] args) {

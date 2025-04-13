@@ -1,5 +1,5 @@
 // Demonstrate a java program explaining user defined exception handling
-package X_Exception_Handling;
+package x_exception_handling;
 
 // creating an user-defined exception class
 class MyException extends Exception{

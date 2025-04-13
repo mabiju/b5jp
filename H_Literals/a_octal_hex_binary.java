@@ -1,4 +1,4 @@
-package H_Literals;
+package h_literals;
 
 public class a_octal_hex_binary {
     public static void main(String[] args) {

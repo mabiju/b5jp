@@ -1,4 +1,4 @@
-package W_Access_Specifier;
+package w_access_specifier;
 
 class Nums {
     // there is not any access specifier keywor used, i.e. default

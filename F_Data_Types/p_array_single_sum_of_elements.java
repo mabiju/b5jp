@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class p_array_single_sum_of_elements {
     public static void main(String[] args) {

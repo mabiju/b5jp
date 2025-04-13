@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class b_boolean {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package X_Exception_Handling;
+package x_exception_handling;
 
 public class c_exception_array_null {
     public static void main(String[] args) {

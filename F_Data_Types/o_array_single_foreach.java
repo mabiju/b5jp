@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class o_array_single_foreach {
     public static void main(String[] args) {

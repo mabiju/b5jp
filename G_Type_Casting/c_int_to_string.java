@@ -1,4 +1,4 @@
-package G_Type_Casting;
+package g_type_casting;
 
 public class c_int_to_string {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 // demonstrating method overloading based on different data types on parameters.
-package S_Polymorphism.i_method_overloading;
+package s_polymorphism.i_method_overloading;
 
 class Nums {
     int add(int a, int b) {

@@ -1,4 +1,4 @@
-package Y_Threads;
+package y_threads;
 
 class MeroThread implements Runnable{
     public void run() {

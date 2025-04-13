@@ -1,5 +1,5 @@
 // use of this keyoword to pass an argument in the method call
-package L_This_Keyword;
+package l_this_keyword;
 
 public class f_this_pass_an_argument_method_call {
     void hello(f_this_pass_an_argument_method_call obj) {

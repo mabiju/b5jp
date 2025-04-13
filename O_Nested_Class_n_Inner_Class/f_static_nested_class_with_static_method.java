@@ -1,4 +1,4 @@
-package O_Nested_Class_n_Inner_Class;
+package o_nested_class_n_inner_class;
 
 public class f_static_nested_class_with_static_method {
     static int age = 25;

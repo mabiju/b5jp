@@ -1,4 +1,4 @@
-package ZC_Byte_Stream;
+package zc_byte_stream;
 
 import java.io.FileOutputStream;
 

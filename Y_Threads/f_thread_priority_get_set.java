@@ -1,4 +1,4 @@
-package Y_Threads;
+package y_threads;
 
 class ThreadDemo implements Runnable {
     public void run() {

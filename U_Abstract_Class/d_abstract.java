@@ -1,4 +1,4 @@
-package U_Abstract_Class;
+package u_abstract_class;
 
 abstract class Santothimi {
     // abstract method

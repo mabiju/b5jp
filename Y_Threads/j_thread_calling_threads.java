@@ -1,4 +1,4 @@
-package Y_Threads;
+package y_threads;
 
 public class j_thread_calling_threads {
     public void call(String msg) {

@@ -1,5 +1,5 @@
 // write a program in Java to display the Employee details using Console Class.
-package Z_Console_IO;
+package z_console_io;
 
 import java.io.Console;
 

@@ -1,4 +1,4 @@
-package Z_Console_IO;
+package z_console_io;
 
 /* import java.io.BufferedReader;
 import java.io.IOException;

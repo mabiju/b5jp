@@ -1,4 +1,4 @@
-package H_Literals;
+package h_literals;
 
 public class b_character_escape_sequences {
     public static void main(String[] args) {

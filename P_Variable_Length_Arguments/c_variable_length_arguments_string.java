@@ -1,4 +1,4 @@
-package P_Variable_Length_Arguments;
+package p_variable_length_arguments;
 
 public class c_variable_length_arguments_string {
     // public void displayNames(String... strs){

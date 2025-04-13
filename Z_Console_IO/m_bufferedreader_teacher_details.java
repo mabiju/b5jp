@@ -2,7 +2,7 @@
 user input parameters through constructor and display the teachers details using BufferedReader
 Console IO. */
 
-package Z_Console_IO;
+package z_console_io;
 
 import java.io.BufferedReader;
 import java.io.IOException;

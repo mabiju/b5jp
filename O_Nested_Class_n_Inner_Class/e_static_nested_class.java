@@ -1,4 +1,4 @@
-package O_Nested_Class_n_Inner_Class;
+package o_nested_class_n_inner_class;
 
 // outer class
 public class e_static_nested_class {

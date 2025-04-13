@@ -1,4 +1,4 @@
-package I_Constructors;
+package i_constructors;
 
 class Stud {
     int roll;

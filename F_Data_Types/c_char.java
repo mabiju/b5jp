@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 import java.util.Scanner;
 

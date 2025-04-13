@@ -2,7 +2,7 @@
  * variable. Here down below, we're displaying reference
  * variable and the output of both variable will be same.
  */
-package L_This_Keyword;
+package l_this_keyword;
 
 public class i_this_current_instance_variable_reference {
     void hi() {

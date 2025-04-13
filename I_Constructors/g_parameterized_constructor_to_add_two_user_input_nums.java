@@ -1,4 +1,4 @@
-package I_Constructors;
+package i_constructors;
 
 import java.util.Scanner;
 

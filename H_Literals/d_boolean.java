@@ -1,4 +1,4 @@
-package H_Literals;
+package h_literals;
 
 public class d_boolean {
     public static void main(String[] args) {

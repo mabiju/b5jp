@@ -1,4 +1,4 @@
-package E_Operators;
+package e_operators;
 
 public class g_bitwise_OR {
     public static void main(String[] args) {

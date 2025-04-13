@@ -1,4 +1,4 @@
-package J_Command_Line_Argument;
+package j_command_line_argument;
 public class a_command_line {
     public static void main(String[] args) {
         System.out.println("Hello " + args[0]);

@@ -1,4 +1,4 @@
-package Y_Threads;
+package y_threads;
 
 public class c_thread_runnable implements Runnable {
     public static void main(String[] args) {

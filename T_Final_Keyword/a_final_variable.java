@@ -1,4 +1,4 @@
-package T_Final_Keyword;
+package t_final_keyword;
 
 public class a_final_variable {
     final int a = 78;

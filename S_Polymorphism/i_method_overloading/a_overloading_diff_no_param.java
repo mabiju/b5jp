@@ -1,5 +1,5 @@
 // demonstrating method overloading based on different number of parameters.
-package S_Polymorphism.i_method_overloading;
+package s_polymorphism.i_method_overloading;
 
 class Calc {
     public void display(int a) {

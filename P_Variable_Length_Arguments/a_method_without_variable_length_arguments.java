@@ -1,4 +1,4 @@
-package P_Variable_Length_Arguments;
+package p_variable_length_arguments;
 
 public class a_method_without_variable_length_arguments {
     public int add(int a) {

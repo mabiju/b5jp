@@ -1,4 +1,4 @@
-package T_Final_Keyword;
+package t_final_keyword;
 
 class Dad {
     // overridden method

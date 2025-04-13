@@ -1,4 +1,4 @@
-package V_Interface;
+package v_interface;
 
 interface IVehicle {
     public void accelerate();

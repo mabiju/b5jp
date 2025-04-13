@@ -1,4 +1,4 @@
-package P_Variable_Length_Arguments;
+package p_variable_length_arguments;
 
 public class b_variable_length_arguments {
     public int sumNum(int... args) {

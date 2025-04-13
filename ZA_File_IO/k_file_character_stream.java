@@ -1,4 +1,4 @@
-package ZA_File_IO;
+package za_file_io;
 
 import java.io.File;
 import java.io.FileReader;

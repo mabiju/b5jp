@@ -1,4 +1,4 @@
-package X_Exception_Handling;
+package x_exception_handling;
 
 public class e_exception_finally {
     public static void main(String[] args) {

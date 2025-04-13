@@ -1,4 +1,4 @@
-package W_Access_Specifier;
+package w_access_specifier;
 
 class Calc {
     protected int sum(int a, int b) {

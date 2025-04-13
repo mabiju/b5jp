@@ -1,4 +1,4 @@
-package E_Operators;
+package e_operators;
 
 import java.lang.Math;
 

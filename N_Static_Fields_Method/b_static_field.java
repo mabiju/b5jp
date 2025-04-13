@@ -1,4 +1,4 @@
-package N_Static_Fields_Method;
+package n_static_fields_method;
 
 class Student {
     int roll;

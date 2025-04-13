@@ -1,5 +1,5 @@
 // use of this keyword for constructor call
-package L_This_Keyword;
+package l_this_keyword;
 
 class Stud {
     int roll;

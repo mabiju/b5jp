@@ -1,4 +1,4 @@
-package Q_Inheritance;
+package q_inheritance;
 
 class Buwa{
     void hi()

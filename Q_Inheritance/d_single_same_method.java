@@ -1,4 +1,4 @@
-package Q_Inheritance;
+package q_inheritance;
 
 class BaseClass {
     void hi() {

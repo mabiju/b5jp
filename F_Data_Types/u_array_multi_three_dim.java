@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class u_array_multi_three_dim {
     public static void main(String[] args) {

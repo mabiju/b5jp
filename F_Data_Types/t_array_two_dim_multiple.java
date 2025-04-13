@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class t_array_two_dim_multiple {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package I_Constructors;
+package i_constructors;
 
 public class a_default_constructor {
     public a_default_constructor() {

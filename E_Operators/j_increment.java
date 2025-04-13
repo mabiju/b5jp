@@ -1,4 +1,4 @@
-package E_Operators;
+package e_operators;
 
 public class j_increment {
     public static void main(String[] args) {

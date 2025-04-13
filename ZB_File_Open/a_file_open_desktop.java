@@ -1,5 +1,5 @@
 // we need to create a file before running this program.
-package ZB_File_Open;
+package zb_file_open;
 
 import java.io.File;
 import java.awt.Desktop;

@@ -1,4 +1,4 @@
-package Y_Threads;
+package y_threads;
 
 class MyThread extends Thread {
     public void run() {

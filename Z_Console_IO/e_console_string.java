@@ -1,4 +1,4 @@
-package Z_Console_IO;
+package z_console_io;
 
 public class e_console_string {
     public static void main(String[] args) {

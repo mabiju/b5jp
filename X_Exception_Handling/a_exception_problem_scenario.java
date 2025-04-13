@@ -1,5 +1,5 @@
 // this example includes problem statement, i.e. we cannot divide numbers by zero
-package X_Exception_Handling;
+package x_exception_handling;
 
 public class a_exception_problem_scenario {
     public static void main(String[] args) {

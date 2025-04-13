@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class w_array_jagged_custom_size {
     public static void main(String[] args) {

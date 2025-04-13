@@ -1,6 +1,6 @@
 /* use of this keyword to invoke current class constructor
 calling default constructor from parameterized constructor */
-package L_This_Keyword;
+package l_this_keyword;
 
 class Nums{
     Nums() {

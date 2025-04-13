@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class r_array_two_dim_accessing_single_element {
     public static void main(String[] args) {

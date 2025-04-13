@@ -1,4 +1,4 @@
-package S_Polymorphism.ii_method_overriding;
+package s_polymorphism.ii_method_overriding;
 
 class Dad {
     // overridden method

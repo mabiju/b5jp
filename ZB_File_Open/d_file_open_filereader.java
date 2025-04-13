@@ -1,4 +1,4 @@
-package ZB_File_Open;
+package zb_file_open;
 
 import java.io.*;
 

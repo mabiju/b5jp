@@ -1,5 +1,5 @@
 // use of this keyoword to pass an argument in the constructor call
-package L_This_Keyword;
+package l_this_keyword;
 
 class Student_demo {
     g_this_pass_an_argument_constructor_call obj;

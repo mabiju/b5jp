@@ -1,4 +1,4 @@
-package V_Interface;
+package v_interface;
 
 interface ITeacher {
     public void teach();

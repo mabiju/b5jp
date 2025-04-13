@@ -1,5 +1,5 @@
 // widening type casting(explicit type conversion)
-package G_Type_Casting;
+package g_type_casting;
 
 public class a_int_to_double {
     public static void main(String[] args) {

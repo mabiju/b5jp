@@ -1,5 +1,5 @@
 // write a program in java to read the user input password using console class
-package Z_Console_IO;
+package z_console_io;
 
 import java.io.Console;
 

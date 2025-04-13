@@ -1,4 +1,4 @@
-package R_Inheritance_n_Constructor;
+package r_inheritance_n_constructor;
 
 class GrandDad {
     GrandDad() {

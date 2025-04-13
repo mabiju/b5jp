@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class f_short {
     public static void main(String[] args) {

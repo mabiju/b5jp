@@ -1,6 +1,6 @@
 /* Write a program in java to enter employee id and name of a employee and to
  display the information using interface. */
-package V_Interface;
+package v_interface;
 
 import java.util.Scanner;
 

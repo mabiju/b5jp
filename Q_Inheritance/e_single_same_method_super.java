@@ -1,5 +1,5 @@
 // demonstrate the use of "super" keyword to access method of super class
-package Q_Inheritance;
+package q_inheritance;
 
 class Teacher {
     void Study() {

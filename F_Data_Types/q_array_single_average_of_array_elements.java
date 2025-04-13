@@ -1,4 +1,4 @@
-package F_Data_Types;
+package f_data_types;
 
 public class q_array_single_average_of_array_elements {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package W_Access_Specifier;
+package w_access_specifier;
 
 class MyClass{
     public int a = 89;
