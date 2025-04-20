@@ -1,4 +1,4 @@
-package zd_java_swing;
+package zd_java_swing.a_swing_components;
 
 import javax.swing.*;
 
