@@ -1,0 +1,10 @@
+Handwritten Assingnment 2
+-------------------------
+1. Describe the Java exception hierarchy. Explain the difference between checked and unchecked exceptions. How do the keywords try, catch, throw, throws, and finally work together in exception handling?
+2. What are the fundamentals of multithreading in Java? Compare the Thread class and the Runnable interface. Provide an example where implementing Runnable is preferred over extending Thread.
+3. Write a Java Swing program snippet that creates a JFrame containing a JTextField, a JLabel, and three JButtons. The label should display the text entered in the text field when a button is clicked. Explain the event handling involved.
+4. Describe the role and types of layout managers in Swing. How do layout managers affect the placement and resizing of components within containers? Provide examples of at least three layout managers.
+5. Discuss the differences between byte streams and character streams in Java I/O. Provide examples of classes used for reading and writing byte streams and character streams.
+
+Assigned : 2082/01/16, Tuesday
+Deadline : 2082/01/31, Wednesday
